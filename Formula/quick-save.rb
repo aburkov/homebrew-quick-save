@@ -1,8 +1,8 @@
 class QuickSave < Formula
   desc     "Ultra‑simple save / load wrapper around Git"
   homepage "https://github.com/aburkov/quick-save"
-  url      "https://github.com/aburkov/quick-save/archive/refs/tags/v0.0.1.tar.gz"
-  sha256   "c47967dae3a010cf7f3372094b33b0f7f95cff56d89ce05d85184d996ce0ef88"
+  url      "https://github.com/aburkov/quick-save/archive/refs/tags/v0.0.2.tar.gz"
+  sha256   "63d8a273525c712b1bc0119cd9836560ebec120ebda22834af2818e767c7ac22"
   license  "MIT"
 
   depends_on "git"
